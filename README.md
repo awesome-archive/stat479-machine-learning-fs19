@@ -18,37 +18,25 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 **Part II: Computational Foundations**
 
 - [Lecture 3: Using Python, Anaconda, IPython, Jupyter Notebooks](./03_python)
-- Lecture 4: Scientific Computing with NumPy, SciPy, and Matplotlib
-- Lecture 5: Data Preprocessing and Machine Learning with Scikit-Learn
+- [Lecture 4: Scientific Computing with NumPy, SciPy, and Matplotlib](./04_sci-python)
+- [Lecture 5: Data Preprocessing and Machine Learning with Scikit-Learn](./05_preprocessing-and-sklearn)
 
 **Part III: Tree-Based Methods**
 
-- Lecture 6: Decision Trees
-- Lecture 7: Ensemble Methods
+- [Lecture 6: Decision Trees](./06_trees)
+- [Lecture 7: Ensemble Methods](./07_ensembles)
 
 **Part IV: Evaluation**
 
-- Lecture 8: Model Evaluation 1: Introduction to Overfitting and Underfitting
-- Lecture 9: Model Evaluation 2: Uncertainty Estimates and Resampling
-- Lecture 10: Model Evaluation 3: Model Selection and Cross-Validation
-- Lecture 11: Model Evaluation 4: Algorithm Selection and Statistical Tests
-- Lecture 12: Model Evaluation 5: Performance Metrics
+- [Lecture 8: Model Evaluation 1: Introduction to Overfitting and Underfitting](./08_model-eval-1)
+- [Lecture 9: Model Evaluation 2: Uncertainty Estimates and Resampling](./09_eval2-ci)
+- [Lecture 10: Model Evaluation 3: Model Selection and Cross-Validation](./10_eval3-cv)
+- [Lecture 11: Model Evaluation 4: Algorithm Selection and Statistical Tests](./11_eval4-algo)
+- [Lecture 12: Model Evaluation 5: Performance Metrics](./12_eval5-metrics)
 
 **Part V: Dimensionality Reduction**
 
-- Lecture 13: Feature Selection
-- Lecture 14: Feature Extraction
+- [Lecture 13: Feature Selection](./13_feat-sele)
+- [Lecture 14: Feature Extraction](./14_feat-extract)
 
-**Part VI: Bayesian Learning**
 
-- Lecture 15: Bayes Classifiers
-- Lecture 16: Text Data & Sentiment Analysis
-- Lecture 17: Naive Bayes Classification
-
-**Part VII: Regression**
-
-- Lecture 18: Intro to Regression Analysis
-
-**Part VIII: Unsupervised Learning**
-
-- Lecture 19: Intro to Clustering
